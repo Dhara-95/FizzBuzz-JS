@@ -26,3 +26,8 @@ To see the list of numbers from 1 to 100 that apply to the rules outlined above:
 2. Navigate to the 'Console' shown on the top bar of the Javascript console, this should show a list of numbers     which where applicable, are replaced with "Fizz", "Buzz" or "FizzBuzz". 
 
 ![Jasmine SpecRuner & JS console](https://github.com/Dhara-95/FizzBuzz-JS/blob/master/screenshots/Screen%20Shot%202020-07-08%20at%2011.33.44.png) 
+
+**Contributors**
+---
+@Dhara-95
+@JoshuaNg2332
