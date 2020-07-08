@@ -25,4 +25,4 @@ To see the list of numbers from 1 to 100 that apply to the rules outlined above:
 1. Right click on the SpecRunner.html page and click on 'Inspect'
 2. Navigate to the 'Console' shown on the top bar of the Javascript console, this should show a list of numbers     which where applicable, are replaced with "Fizz", "Buzz" or "FizzBuzz". 
 
-![Jasmine SpecRuner & JS console](FizzBuzz-JS/screenshots/Screen Shot 2020-07-08 at 11.33.44.png) 
+![Jasmine SpecRuner & JS console](https://github.com/Dhara-95/FizzBuzz-JS/blob/master/screenshots/Screen%20Shot%202020-07-08%20at%2011.33.44.png) 
